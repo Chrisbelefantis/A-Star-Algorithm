@@ -21,12 +21,13 @@ cost from one step to another is always one and the available moves are up/down 
 heuristic function used it this example is square Manhattan-Distance.
 
 
+
 >  **Manhatan Distance = | x1 - x2 | + | y1 - y2 |**
+
 
 My implementation of the algorithm is based in the pseudocode found in the wikipedias page for the A* Algorithm.
  
-You can find the pseudocode [here]: https://en.wikipedia.org/wiki/A*_search_algorithm
-
+You can find the pseudocode [here](https://en.wikipedia.org/wiki/A*_search_algorithm)
 
 
 
