@@ -26,8 +26,7 @@ heuristic function used it this example is square Manhattan-Distance.
 
 ## How the end result looks
 
-
-
+![](a-star.gif)
 
 
 
