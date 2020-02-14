@@ -23,6 +23,12 @@ heuristic function used it this example is square Manhattan-Distance.
 
 >  **Manhatan Distance = | x1 - x2 | + | y1 - y2 |**
 
+My implementation of the algorithm is based in the pseudocode found in the wikipedias page for the A* Algorithm.
+ 
+You can find the pseudocode [here]: https://en.wikipedia.org/wiki/A*_search_algorithm
+
+
+
 
 ## How the end result looks
 
