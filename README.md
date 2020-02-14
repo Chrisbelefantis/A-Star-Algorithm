@@ -3,7 +3,7 @@
 
 ## Introduction
 
-In this project I use **tKinter** package which is included in the standard python library in order to create an implemetantion 
+In this project I use **tKinter** package which is included in the standard python library in order to create an implementation  
 
 of the A Star path search algorithm. This algorithm uses a heuristic function and takes into account the cost 
 
